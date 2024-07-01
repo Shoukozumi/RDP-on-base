@@ -1,0 +1,239 @@
+{
+    "actions_list_digest": "the hash of the entire action list for quick equality evaluation",
+    "first_party_apps": [
+    {
+        "app_name": "My Shopify Store #1",
+        "app_type": "Shopify",
+        "app_config_id": "Some unique identifier for the Shopify API key bundle stored in the database (need to use it to call RDPB API to look up full config)",
+        "actions": [
+            {
+                "action_name": "Create coupon for product A",
+                "action_description": "Generate a secure and unique checkout link with the coupon automatically applied to the shopify item",
+                "action_icon": "http://some_url_to_the_icon.png",
+                "action_metadata": {
+                    "shopify_store_id": "Shopify's store ID that has product A",
+                    "shopify_product_id": "Product A's product ID",
+                    "shopify_product_name": "Product A",
+                    "shopify_product_price": 100
+                },
+                "action_template_type": "shopify::product_coupon",
+                "action_template_params": [
+                    {
+                        "input_name": "Select your coupon type",
+                        "input_description": "Your coupon can either be a percentage discount of the original item price, or it can be a fixed-quantity cash discount.",
+                        "input_type": "single-select",
+                        "input_choices": [
+                            "percentage",
+                            "fixed"
+                        ],
+                        "input_choice_children": [
+                            {
+                                "input_name": "Input your coupon percentage",
+                                "input_description": "Your coupon can either be a percentage discount of the original item price, or it can be a fixed-quantity cash discount.",
+                                "input_type": "percentage",
+                                "input_choice_children": []
+                            },
+                            {
+                                "input_name": "Input your coupon cash value",
+                                "input_description": "Your coupon can either be a percentage discount of the original item price, or it can be a fixed-quantity cash discount.",
+                                "input_type": "number",
+                                "input_choice_children": []
+                            }
+                        ]
+                    },
+                    {
+                        "input_name": "Include a message in the coupon",
+                        "input_description": "You can include an optional message in this coupon",
+                        "input_type": "string",
+                        "input_choice_children": []
+                    }
+                ]
+            },
+            {
+                "action_name": "Create coupon for product B",
+                "action_description": "Generate a secure and unique checkout link with the coupon automatically applied to the shopify item",
+                "action_icon": "http://some_url_to_the_icon.png",
+                "action_metadata": {
+                    "shopify_store_id": "Shopify's store ID that has product B",
+                    "shopify_product_id": "Product B's product ID",
+                    "shopify_product_name": "Product B",
+                    "shopify_product_price": 20
+                },
+                "action_template_type": "shopify::product_coupon",
+                "action_template_params": [
+                    {
+                        "input_name": "Select your coupon type",
+                        "input_description": "Your coupon can either be a percentage discount of the original item price, or it can be a fixed-quantity cash discount.",
+                        "input_type": "single-select",
+                        "input_choices": [
+                            "percentage",
+                            "fixed"
+                        ],
+                        "input_choice_children": [
+                            {
+                                "input_name": "Input your coupon percentage",
+                                "input_description": "Your coupon can either be a percentage discount of the original item price, or it can be a fixed-quantity cash discount.",
+                                "input_type": "percentage",
+                                "input_choice_children": []
+                            },
+                            {
+                                "input_name": "Input your coupon cash value",
+                                "input_description": "Your coupon can either be a percentage discount of the original item price, or it can be a fixed-quantity cash discount.",
+                                "input_type": "number",
+                                "input_choice_children": []
+                            }
+                        ]
+                    },
+                    {
+                        "input_name": "Include a message in the coupon",
+                        "input_description": "You can include an optional message in this coupon",
+                        "input_type": "string",
+                        "input_choice_children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "app_name": "My Shopify Store #2",
+        "app_type": "Shopify",
+        "app_config_id": "Some unique identifier for the Shopify store 2's API key bundle stored in the database (need to use it to call RDPB API to look up full config)",
+        "actions": [
+            {
+                "action_name": "Create coupon for product A",
+                "action_description": "Generate a secure and unique checkout link with the coupon automatically applied to the shopify item",
+                "action_icon": "http://some_url_to_the_icon.png",
+                "action_metadata": {
+                    "shopify_store_id": "Shopify's store ID that has product A",
+                    "shopify_product_id": "Product A's product ID",
+                    "shopify_product_name": "Product A",
+                    "shopify_product_price": 100
+                },
+                "action_template_type": "shopify::product_coupon",
+                "action_template_params": [
+                    {
+                        "input_name": "Select your coupon type",
+                        "input_description": "Your coupon can either be a percentage discount of the original item price, or it can be a fixed-quantity cash discount.",
+                        "input_type": "single-select",
+                        "input_choices": [
+                            "percentage",
+                            "fixed"
+                        ],
+                        "input_choice_children": [
+                            {
+                                "input_name": "Input your coupon percentage",
+                                "input_description": "Your coupon can either be a percentage discount of the original item price, or it can be a fixed-quantity cash discount.",
+                                "input_type": "percentage",
+                                "input_choice_children": []
+                            },
+                            {
+                                "input_name": "Input your coupon cash value",
+                                "input_description": "Your coupon can either be a percentage discount of the original item price, or it can be a fixed-quantity cash discount.",
+                                "input_type": "number",
+                                "input_choice_children": []
+                            }
+                        ]
+                    },
+                    {
+                        "input_name": "Include a message in the coupon",
+                        "input_description": "You can include an optional message in this coupon",
+                        "input_type": "string",
+                        "input_choice_children": []
+                    }
+                ]
+            },
+            {
+                "action_name": "Create coupon for product B",
+                "action_description": "Generate a secure and unique checkout link with the coupon automatically applied to the shopify item",
+                "action_icon": "http://some_url_to_the_icon.png",
+                "action_metadata": {
+                    "shopify_store_id": "Shopify's store ID that has product B",
+                    "shopify_product_id": "Product B's product ID",
+                    "shopify_product_name": "Product B",
+                    "shopify_product_price": 20
+                },
+                "action_template_type": "shopify::product_coupon",
+                "action_template_params": [
+                    {
+                        "input_name": "Select your coupon type",
+                        "input_description": "Your coupon can either be a percentage discount of the original item price, or it can be a fixed-quantity cash discount.",
+                        "input_type": "single-select",
+                        "input_choices": [
+                            "percentage",
+                            "fixed"
+                        ],
+                        "input_choice_children": [
+                            {
+                                "input_name": "Input your coupon percentage",
+                                "input_description": "Your coupon can either be a percentage discount of the original item price, or it can be a fixed-quantity cash discount.",
+                                "input_type": "percentage",
+                                "input_choice_children": []
+                            },
+                            {
+                                "input_name": "Input your coupon cash value",
+                                "input_description": "Your coupon can either be a percentage discount of the original item price, or it can be a fixed-quantity cash discount.",
+                                "input_type": "number",
+                                "input_choice_children": []
+                            }
+                        ]
+                    },
+                    {
+                        "input_name": "Include a message in the coupon",
+                        "input_description": "You can include an optional message in this coupon",
+                        "input_type": "string",
+                        "input_choice_children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "app_name": "My Tremendous Integration #1",
+        "app_type": "Tremendous",
+        "app_config_id": "Some Unique identifier for the Tremendous API key bundle stored in the database (need to use it to call RDPB API to look up full config)",
+        "actions": [
+            {
+                "action_name": "Create a gift card link for Amazon",
+                "action_description": "This action will generate a redeemable gift card link for Amazon",
+                "action_icon": "http://some_amazon_logo.png",
+                "action_metadata": {
+                    "tremendous_product_type": "Amazon"
+                },
+                "action_template_type": "tremendous::gift_card",
+                "action_template_params": [
+                    {
+                        "input_name": "Input the gift card quantity",
+                        "input_description": "This will be the cash value of the gift card in USD",
+                        "input_type": "number",
+                        "input_choice_children": []
+                    }
+                ]
+            },
+            {
+                "action_name": "Create a gift card link for Apple",
+                "action_description": "This action will generate a redeemable gift card link for Apple",
+                "action_icon": "http://some_url_to_the_apple_icon.png",
+                "action_metadata": {
+                    "tremendous_product_type": "Apple"
+                },
+                "action_template_type": "tremendous::gift_card",
+                "action_template_params": [
+                    {
+                        "input_name": "Select the gift card value",
+                        "input_description": "his will be the cash value of the gift card in USD",
+                        "input_type": "single-select",
+                        "input_choices": [
+                            10,
+                            20,
+                            30,
+                            50,
+                            100
+                        ],
+                        "input_choice_children": []
+                    }
+                ]
+            }
+        ]
+    }
+]
+}

@@ -1,0 +1,4452 @@
+[
+  {
+    "action_name": "Tokenized adidas US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/HX4U3DQX6GSA/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "HX4U3DQX6GSA"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Amazon.com gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/OKMHM2X2OHYV/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "OKMHM2X2OHYV"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Banana Republic gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/N7XGUA9XXFAB/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "N7XGUA9XXFAB"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized AMC Theatres gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/DYHLA54LEX11/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "DYHLA54LEX11"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Macy's gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/OUUZS1D2WZED/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "OUUZS1D2WZED"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Cold Stone Creamery gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/TQELFO0O7BYG/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "TQELFO0O7BYG"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized CB2 gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/9KQTRG3BCEKU/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "9KQTRG3BCEKU"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized The Home Depot gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/AFO794BZA8LR/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "AFO794BZA8LR"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Applebee's gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/2JFKPXBWDC1K/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "2JFKPXBWDC1K"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Google Play gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/SUCNT639A6H9/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "SUCNT639A6H9"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized TGI Fridays gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/I3SY5OU4KKTW/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "I3SY5OU4KKTW"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Foot Locker US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/7FGOY7Q4SOD9/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "7FGOY7Q4SOD9"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Zappos gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/MPTGC2L6LLXV/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "MPTGC2L6LLXV"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Walmart gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/DPIPLH0SRBO6/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "DPIPLH0SRBO6"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Nintendo eShop US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/NL3PK5DA9OLR/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "NL3PK5DA9OLR"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized West Elm gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/HSV9D075LFPH/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "HSV9D075LFPH"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Delta Air Lines gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/KGPM2ZYRPHE6/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "KGPM2ZYRPHE6"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized GameStop gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/LRY6PF4E4AKC/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "LRY6PF4E4AKC"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Pottery Barn gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/RR5ONCMTFHUT/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "RR5ONCMTFHUT"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Williams-Sonoma gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/RTTHUT5U3DNX/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "RTTHUT5U3DNX"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Columbia gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/67FA8RXMAMXK/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "67FA8RXMAMXK"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Barnes & Noble gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/VKURYR906AG9/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "VKURYR906AG9"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Buffalo Wild Wings USA gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/E6YMI55YSEY6/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "E6YMI55YSEY6"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Burlington gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/R12S6QRP70TG/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "R12S6QRP70TG"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Burger King gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/J8IF1NOYS959/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "J8IF1NOYS959"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Staples gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/7JJM4UE9VMAW/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "7JJM4UE9VMAW"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Bath & Body Works gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/EZ9TELXE8OYB/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "EZ9TELXE8OYB"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Chipotle gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/CRN0ID07Y2XD/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "CRN0ID07Y2XD"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized REI gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/X2R7MKDGN5NB/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "X2R7MKDGN5NB"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Spotify US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/CDMMRJLWKW94/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "CDMMRJLWKW94"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Ulta Beauty gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/899XF6JLQTER/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "899XF6JLQTER"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Panera Bread gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/IIX6NOU88XQC/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "IIX6NOU88XQC"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Crate & Barrel gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/XRRU0EWKQI0F/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "XRRU0EWKQI0F"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Taco Bell gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/GB08GUQD12NV/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "GB08GUQD12NV"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Walmart – Alcohol/Tobacco/Firearms Prohibited gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/SERJ8PTGGXLL/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "SERJ8PTGGXLL"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Sierra gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/AGFU09LIKQ3L/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "AGFU09LIKQ3L"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Marshalls gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/W6DMKUAZR9WC/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "W6DMKUAZR9WC"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized HomeGoods gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/3MZBZIUX0UA0/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "3MZBZIUX0UA0"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Pilot Flying J gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/JDKYVFUQUBER/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "JDKYVFUQUBER"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Belk gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/9WPTB91FOBYC/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "9WPTB91FOBYC"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Dave & Buster's gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/QJ4T6Y5ORZFM/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "QJ4T6Y5ORZFM"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Sam's Club gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/8C7E0V49KKTF/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "8C7E0V49KKTF"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Instacart gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/N9QEV7YC3HLK/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "N9QEV7YC3HLK"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized League of Legends gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/ALLYEZ8RFOTB/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "ALLYEZ8RFOTB"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized VALORANT gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/L1OFLO1YJVBC/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "L1OFLO1YJVBC"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Hotels.com US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/EQGJ5KT584DG/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "EQGJ5KT584DG"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized JCPenney gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/2YHZ6RZH5FYT/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "2YHZ6RZH5FYT"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Wayfair gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/0BDNR16UFAEZ/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "0BDNR16UFAEZ"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Topgolf gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/FYIGMPP93I6R/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "FYIGMPP93I6R"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Kohl's gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/AIHWKAS0WMCF/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "AIHWKAS0WMCF"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Nordstrom gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/3Y1VI49CMXEC/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "3Y1VI49CMXEC"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Fleming's Prime Steakhouse & Wine Bar gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/5NJUY4Z9U2EG/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "5NJUY4Z9U2EG"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Sephora US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/2OEXU81GQGHZ/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "2OEXU81GQGHZ"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Jiffy Lube® gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/TMZSESIKOMDZ/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "TMZSESIKOMDZ"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Michaels gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/4HO6ECJZH4FG/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "4HO6ECJZH4FG"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized 1-800-PetSupplies gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/EIPF8Q00EMM1/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "EIPF8Q00EMM1"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Spa & Wellness by Spa Week gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/US2OE0BB1VNY/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "US2OE0BB1VNY"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Carnival Cruise Line gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/GTA2XIZHZ36U/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "GTA2XIZHZ36U"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized eBay gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/NYTE9M63VZ7A/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "NYTE9M63VZ7A"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Nexon Karma Koin gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/YVS9HYSJMBFL/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "YVS9HYSJMBFL"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Papa John's gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/55I164EHG721/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "55I164EHG721"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Morton's The Steakhouse gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/DHZH2PC1DSC7/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "DHZH2PC1DSC7"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized The Cheesecake Factory gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/9QGPDPJ90G9Q/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "9QGPDPJ90G9Q"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Peet's Coffee & Tea gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/DU0IRV0C9XF5/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "DU0IRV0C9XF5"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Athleta gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/J5WRZBI7R5T6/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "J5WRZBI7R5T6"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Gap US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/5SLCF3XWP8LU/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "5SLCF3XWP8LU"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Old Navy US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/ERZNS9M9JXQJ/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "ERZNS9M9JXQJ"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized PlayStation™Store (Dual Brand) gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/X3ZE6XLDA64X/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "X3ZE6XLDA64X"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Southwest Airlines gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/GL3Y4RNQJAQ1/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "GL3Y4RNQJAQ1"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Allbirds gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/J4ONC22HEOU3/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "J4ONC22HEOU3"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized P.F. Chang's gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/CGZCPMAS0PR0/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "CGZCPMAS0PR0"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Panda Express gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/WC6FR65K5DMK/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "WC6FR65K5DMK"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized PetSmart gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/F68HD9KO8YFR/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "F68HD9KO8YFR"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized babyGap gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/PZ9ZOHUYT5VW/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "PZ9ZOHUYT5VW"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Roblox gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/I8K50EV1RYKV/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "I8K50EV1RYKV"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized California Pizza Kitchen gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/EBJGJ9RFUDGU/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "EBJGJ9RFUDGU"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Olive Garden gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/Q1G9VC2Q9CXK/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "Q1G9VC2Q9CXK"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Outback Steakhouse gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/L35H1ZBSUOKN/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "L35H1ZBSUOKN"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Nike gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/FGXZUYWP4FII/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "FGXZUYWP4FII"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized CVS Pharmacy gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/PJNLKSECF7GR/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "PJNLKSECF7GR"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Krispy Kreme gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/QE673ZZANX9Q/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "QE673ZZANX9Q"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized IHOP gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/AWK191TKR91A/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "AWK191TKR91A"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Saks Fifth Avenue gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/4Q8AZCZ0AZ8E/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "4Q8AZCZ0AZ8E"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Lowe's gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/OUOC99YPZ5OB/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "OUOC99YPZ5OB"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized American Eagle US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/FSRS8XX5PPO4/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "FSRS8XX5PPO4"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Xbox gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/7LTZASQ2T7T1/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "7LTZASQ2T7T1"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Chili's gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/6NYL22SA5OJM/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "6NYL22SA5OJM"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Best Buy USA gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/C9N9S97PA7QL/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "C9N9S97PA7QL"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Target gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/SRDHFATO9KHN/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "SRDHFATO9KHN"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Hulu gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/8NCJL17RGBPV/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "8NCJL17RGBPV"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Domino's gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/GQHY7QGWSI00/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "GQHY7QGWSI00"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Chewy® gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/GYRR4ES7O0IL/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "GYRR4ES7O0IL"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized StubHub gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/TWQAHLX50LWW/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "TWQAHLX50LWW"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Starbucks US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/2XG0FLQXBDCZ/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "2XG0FLQXBDCZ"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Crutchfield gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/A0MXZIL1U0MH/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "A0MXZIL1U0MH"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Uber Eats gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/HOPB2V9UY5BH/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "HOPB2V9UY5BH"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Red Robin gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/WIUHHHXTSHYF/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "WIUHHHXTSHYF"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Vudu gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/80ABFFY0P9E4/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "80ABFFY0P9E4"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized H&M gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/VICATURH56RI/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "VICATURH56RI"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Cracker Barrel gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/LNHNSG7UM7W8/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "LNHNSG7UM7W8"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Instacart gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/6GJTHUKJJ9ND/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "6GJTHUKJJ9ND"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized DoorDash gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/9OEIQ5EWBWT9/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "9OEIQ5EWBWT9"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Jamba gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/GAGQ3C4WD1SI/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "GAGQ3C4WD1SI"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Eddie Bauer gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/8DUCK0TR7FTX/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "8DUCK0TR7FTX"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Darden Restaurants gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/7YKR1UWE9SGL/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "7YKR1UWE9SGL"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Texas Roadhouse gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/H3NT6D9F1F2X/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "H3NT6D9F1F2X"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Fanatics gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/46I7B4VZAFES/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "46I7B4VZAFES"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Airbnb gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/HNFP6TMSPA9W/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "HNFP6TMSPA9W"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized T.J.Maxx gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/AC5JKD7ABONB/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "AC5JKD7ABONB"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Subway® gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/ZYAN2BFK1M60/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "ZYAN2BFK1M60"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized ASOS gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/84086YW4YW3F/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "84086YW4YW3F"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Bass Pro Shops US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/VEY3P507IHKN/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "VEY3P507IHKN"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Callaway Golf - US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/L2D4SPX2UASL/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "L2D4SPX2UASL"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Chevron and Texaco US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/4SAT90Q41D60/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "4SAT90Q41D60"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Coffee Bean & Tea Leaf gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/Z9S3D383D1JT/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "Z9S3D383D1JT"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Dick's Sporting Goods - US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/L9SW3VT4MLW4/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "L9SW3VT4MLW4"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Dunkin’ US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/GBHRR85U6F6V/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "GBHRR85U6F6V"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Fandango US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/0J63RZUAQEZF/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "0J63RZUAQEZF"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Finish Line gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/SHFKR7B193TW/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "SHFKR7B193TW"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Five Guys US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/WYL7RPI36AIV/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "WYL7RPI36AIV"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Groupon US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/OA6V9KPQVY73/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "OA6V9KPQVY73"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized GrubHub US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/88I0O5MSIQOH/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "88I0O5MSIQOH"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Kroger US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/B1TS3Y1ZB6TL/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "B1TS3Y1ZB6TL"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Longhorn Steakhouse gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/SRG2B3P60UNY/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "SRG2B3P60UNY"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Petco US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/RSQA1YHR6MW0/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "RSQA1YHR6MW0"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Uber Philippines gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/E79NTA5WEONH/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "E79NTA5WEONH"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Sheetz US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/9DA95HTRHUB3/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "9DA95HTRHUB3"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Shutterfly US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/CWZKZX6HQT8V/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "CWZKZX6HQT8V"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Under Armour® US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/GN75RMIOA9SB/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "GN75RMIOA9SB"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Uber Cambodia gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/K8XRPOSPUJZF/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "K8XRPOSPUJZF"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Meta Quest Digital Gift Card - For Apps, Games, Experiences gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/816RX9UOQKD8/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "816RX9UOQKD8"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized PayPal International gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/O7VZ5WQOCUQM/logo",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "O7VZ5WQOCUQM"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized PayPal USA gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/KV934TZ93NQM/logo",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "KV934TZ93NQM"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Virtual Visa International gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/UIL1ZYJU5MKN/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "UIL1ZYJU5MKN"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Black Health Matters gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "U3X6Z5M1CT0V"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized The Bail Project gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "4C5XHECHMVOY"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Southern Poverty Law Center gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "TXVUYBDSOXAL"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Rebuild for Peace gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "ZW87ZV1E3KJI"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Loveland Foundation gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "MBXEH76PWWI5"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized American Red Cross gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "CFMAZHY7FX64"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Tides Foundation gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "3YGSSPGHNFS1"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized ACH gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/ET0ZVETV5ILN/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "ET0ZVETV5ILN"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Black Girls Code gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "NNNXUI04BOA5"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Black Women's Health Alliance gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "2SMW2AL3154I"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Campaign Zero gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "HPVQFXJL1SLK"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized ACLU gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "RIISUV3JPFFT"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Save the Children gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "ESRNAD533W5A"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Girls who Code gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "WL1R9555NNPX"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Direct Relief gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "K77BLLHZS1MD"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized March of Dimes gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "OS4B0LVM2BFW"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Virtual Visa gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/Q24BD9EZ332JT/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "Q24BD9EZ332JT"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized The Skin Cancer Foundation gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "RPYV7W71SO3I"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Animal Shelter Crisis Aid gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "4ONZOZFW3BET"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Doctors without Borders gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "4SRZ9TT18C7B"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Children International gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "42NYPRAV8QKU"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized National Association For The Advancement of Colored People gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "ZZPO9CZ0PJCC"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Clean Water Fund gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "Z3ABKZQZQ4HT"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Black Emotional and Mental Health Collection gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "VDGAWT0GKLVY"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Susan G. Komen Breast Cancer Foundation gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "J1R7PRPVYQAB"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Carbonfund.org gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "0MKHH43ETQET"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Physical Visa gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/A2J05SWPI2QG/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "A2J05SWPI2QG"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized International Rescue Committee gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "OUSQELYW2TVK"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Venmo gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/TKIHHHAJU20C/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "TKIHHHAJU20C"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Razer Gold USD gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/VPPWHVR7JQ7W/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "VPPWHVR7JQ7W"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Lego gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/PPLIQ80WQX7R/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "PPLIQ80WQX7R"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized The Vitamin Shoppe® gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/JDRJEPNMK74S/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "JDRJEPNMK74S"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Victoria’s Secret gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/UUCA573KZFMX/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "UUCA573KZFMX"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Victoria’s Secret PINK gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/V0MBM7GPWIM1/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "V0MBM7GPWIM1"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Apple gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/DC82VBYLI4CC/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "DC82VBYLI4CC"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Etsy gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/N00N90TCKP0S/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "N00N90TCKP0S"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Uber gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/UL2EZW1028HF/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "UL2EZW1028HF"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Bed Bath & Beyond gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/2XKH6TT5MSPK/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "2XKH6TT5MSPK"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Red Lobster gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/IPQTX0KLYNTW/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "IPQTX0KLYNTW"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Joe's Crab Shack gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/1SDKNCAV7Z65/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "1SDKNCAV7Z65"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Lululemon US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/5BFZQ7I3A1SP/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "5BFZQ7I3A1SP"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Hard Rock Cafe gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/M8RMJ6LXG2ZM/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "M8RMJ6LXG2ZM"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Moe’s Southwest Grill gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/AQU29O4RPKLW/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "AQU29O4RPKLW"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  },
+  {
+    "action_name": "Tokenized Lyft US gift card",
+    "action_description": "Generate a gift card redemption link for the selected product. Users can then access the link to get the gift card code",
+    "action_icon": "https://testflight.tremendous.com/product_images/GEB933TBJSU1/card",
+    "action_metadata": {
+      "tremendous_product_type": "Amazon",
+      "tremendous_product_id": "GEB933TBJSU1"
+    },
+    "action_template_type": "Tremendous::gift_card",
+    "action_template_params": [
+      {
+        "input_name": "Select the gift card value",
+        "input_description": "This will be the cash value of the gift card in USD",
+        "input_type": "single-select",
+        "input_choices": [
+          10,
+          20,
+          30,
+          50,
+          100
+        ],
+        "input_choice_children": []
+      }
+    ]
+  }
+]

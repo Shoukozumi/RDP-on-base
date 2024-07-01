@@ -1,0 +1,28 @@
+{
+  "name": "rdp-backend",
+  "version": "0.0.1",
+  "description": "The backend data engine and server for Refract Developer Platform",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Refract",
+    "Refract Development Platform",
+    "RDP",
+    "Refract Network",
+    "Refract Labs"
+  ],
+  "author": "Refract Labs, Inc.",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.3",
+    "node-fetch": "^3.3.2"
+  }
+}
